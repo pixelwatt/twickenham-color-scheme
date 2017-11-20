@@ -1,0 +1,28 @@
+{
+  "name": "twickenham-color-scheme",
+  "version": "1.0.0",
+  "description": "An admin color scheme for Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pixelwatt@github.com/pixelwatt/twickenham-color-scheme.git"
+  },
+  "author": "Rob Clark (PixelWatt)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelwatt/twickenham-color-scheme/issues"
+  },
+  "homepage": "https://github.com/pixelwatt/twickenham-color-scheme#readme",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-notify": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1"
+  }
+}
